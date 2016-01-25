@@ -477,7 +477,6 @@ public void charLit(int pos, int n) {
 //: `volatile ::= "volatile" !idChar ws*
 //: reserved ::= `volatile
 
-
 //special-token characters
 //: `!= ::= "!=" ws*
 //: `* ::= "*" ws*
